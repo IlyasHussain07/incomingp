@@ -1,0 +1,76 @@
+.content {
+    
+}
+.IMG img {
+    height: 600px;
+    width: 1500px;
+    margin-left: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+}
+
+.art article {
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+    margin: 20px auto;
+    position: relative;
+    max-width: 1200px;
+}
+.projects {
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+    margin: 20px auto;
+    max-width: 1200px;
+}
+.projects h3 {
+    padding: 5px;
+}
+.project-1 {
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+    width: 300px;
+    margin: 30px;
+    display: inline-block;
+}
+.project-1 img {
+    width: 300px;
+    height: 300px;
+}
+.projects p {
+    padding-left: 10px;
+}
+.contact {
+    margin: 20px auto;
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+    max-width: 1200px;
+    padding: 15px;
+    position: relative;
+}
+.contact b {
+    border-bottom: 2px solid black;
+}
+.footer {
+    background: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+   box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+}
+@media (max-width:700px)
+{
+    .IMG img {
+        height: 200px;
+        width: 470px;
+    }
+    .art article {
+        margin: 20px;
+    }
+    .projects {
+        margin-left: 20px auto;
+        max-width: 400px;
+    }
+    .contact {
+        margin: 20px;
+    }
+}
