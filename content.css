@@ -61,7 +61,7 @@
     .IMG img {
         height: 200px;
         width: 300px;
-        
+        margin: 0;
     }
     .art article {
         margin: 20px;
