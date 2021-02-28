@@ -2,9 +2,10 @@
     
 }
 .IMG img {
-    margin: 10px auto;
     box-shadow: 0 2px 5px rgba(0,0,0,0.9);
-    margin-left: 10px;
+    position: relative;
+    max-width: 1200px;
+    margin-left: 160px;
 }
 
 .art article {
@@ -56,6 +57,66 @@
     text-decoration: none;
    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
 }
+
+
+/*Start-ups*/
+
+.content-lists {
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+.content-lists ol li {
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+    margin: 20px;
+    padding: 20px;
+}
+.List-BTN {
+    border: none;
+    cursor: pointer;
+    background: #069370;
+    color: #fff;
+    float: right;
+    font-size: 16px;
+}
+
+/*Contact*/
+
+
+.Contact-1 {
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+    max-width: 1200px;
+    margin: 20px auto;
+    position: relative;
+    padding: 20px;
+    border-radius: 5px;
+}
+.MyDetails {
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+    position: relative;
+    margin: 60px auto;
+    max-width: 200px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.MyDetails img {
+    border-radius: 50%;
+    width: 200px;
+    height: 300px;
+    background: #ffff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+}
+
+
+
+
+
 @media (max-width:700px)
 {
     .IMG img {
@@ -72,6 +133,12 @@
         max-width: 360px;
     }
     .contact {
+        margin: 20px;
+    }
+    .content-lists {
+        max-width: 350px;
+    }
+    .Contact-1 {
         margin: 20px;
     }
 }
