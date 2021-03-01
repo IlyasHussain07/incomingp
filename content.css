@@ -1,13 +1,6 @@
 .content {
     
 }
-.IMG img {
-    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
-    position: relative;
-    max-width: 1200px;
-    margin-left: 160px;
-}
-
 .art article {
     padding: 10px;
     background: #fff;
@@ -58,7 +51,6 @@
    box-shadow: 0 2px 5px rgba(0,0,0,0.9);
 }
 
-
 /*Start-ups*/
 
 .content-lists {
@@ -84,7 +76,6 @@
 }
 
 /*Contact*/
-
 
 .Contact-1 {
     background: #fff;
