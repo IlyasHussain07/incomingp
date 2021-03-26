@@ -1,0 +1,150 @@
+/************************* FontAwesome Icons **************************************/
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" ;
+
+
+/**********************  Background linear gradiant     ************************************/
+
+.bg-li-choco {
+    background: linear-gradient(45deg,black,#D2691E);
+}
+.bg-li-aqua {
+    background: linear-gradient(45deg,black,#00FFFF);
+}
+.bg-li-aquamarine {
+    background: linear-gradient(45deg,black,#7FFFD4);
+}
+.bg-li-azure {
+    background: linear-gradient(45deg,black,#F0FFFF);
+}
+.bg-li-blue {
+    background: linear-gradient(45deg,black,#0000FF);
+}
+.bg-li-blueviolet {
+    background: linear-gradient(45deg,black,#8A2BE2);
+}
+.bg-li-brown {
+    background: linear-gradient(45deg,black,#A52A2A);
+}
+.bg-li-wood {
+    background: linear-gradient(45deg,black,#DEB887);
+}
+.bg-li-cadetblue {
+    background: linear-gradient(45deg,black,#5F9EA0);
+}
+.bg-li-coral {
+    background: linear-gradient(45deg,black,#FF7F50);
+}
+.bg-li-cornflowerblue {
+    background: linear-gradient(45deg,black,#6495ED);
+}
+.bg-li-cornsilk {
+    background: linear-gradient(45deg,black,#FFF8DC);
+}
+.bg-li-crimson {
+    background: linear-gradient(45deg,black,#DC143C);
+}
+.bg-li-cyan {
+    background: linear-gradient(45deg,black,#00FFFF);
+}
+.bg-li-darkblue {
+    background: linear-gradient(45deg,black,#00008B);
+}
+.bg-li-darkcyan {
+    background: linear-gradient(45deg,black,#008B8B);
+}
+.bg-li-darkgolden {
+    background: linear-gradient(45deg,black,#B8860B);
+}
+.bg-li-darkgray {
+    background: linear-gradient(45deg,black,#A9A9A9);
+}
+.bg-li-darkgreen {
+    background: linear-gradient(45deg,black,#006400);
+}
+.bg-li-darkMegenta {
+    background: linear-gradient(45deg,black,#8B008B);
+}
+.bg-li-darkolivegreen {
+    background: linear-gradient(45deg,black,#556B2F);
+}
+.bg-li-darkred {
+    background: linear-gradient(45deg,black,#8B0000);
+}
+.bg-li-slateblue {
+    background: linear-gradient(45deg,black,#483D8B);
+}
+.bg-li-deeppink {
+    background: linear-gradient(45deg,black,#FF1493);
+}
+.bg-li-green {
+    background: linear-gradient(45deg,black,#008000);
+}.bg-li-indigo {
+    background: linear-gradient(45deg,black,#4B0082);
+}
+.bg-li-lavender {
+    background: linear-gradient(45deg,black,#E6E6FA);
+}
+.bg-li-seagreen {
+    background: linear-gradient(45deg,black,#20B2AA);
+}
+.bg-li-skyblue {
+    background: linear-gradient(45deg,black,#87CEFA);
+}
+.bg-li-purple {
+    background: linear-gradient(45deg,black,#800080);
+}
+.bg-li-saddlebrown {
+    background: linear-gradient(45deg,black,#8B4513);
+}
+
+.bg-li-teal {
+    background: linear-gradient(45deg,black,#008080);
+}
+.bg-li-tomato {
+    background: linear-gradient(45deg,black,#FF6347);
+}
+.bg-li-white {
+    background: linear-gradient(45deg,black,#fff);
+}
+
+
+
+/**********************  Boreder-Radius    ************************************/
+.br-rd {
+    border-radius: 25px;
+}
+
+
+
+
+
+/**********************  Text-color    ************************************/
+
+.tx-cl {
+    color: #fff;
+}
+
+
+/**********************  Pages-Buttons    ************************************/
+
+.BTNP {
+   
+}
+.active1 {
+    background: #008000;
+}
+.BTNP-Disable {
+    cursor: not-allowed;
+}
+.BTNP-Hover:hover {
+    background: #008000;
+}
+.hover-2:hover {
+    background: linear-gradient(45deg,rgb(41, 38, 38),lightgreen);
+}
+
+
+/*********************************** Special Box ********************************************************/
+.sp-box {
+    border: 2px solid black;
+}
