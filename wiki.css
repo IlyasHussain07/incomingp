@@ -1,0 +1,99 @@
+/* body */
+body {
+    background: black;
+}
+
+/*Background color for Navbar and footer*/
+.bg-li-neon {
+    background: linear-gradient(45deg,black,#15f4ee);
+}
+
+/* For Image  */
+
+.image {
+    background: transparent;
+    max-width: 200px;
+    display: inline-block;
+}
+.image {
+    background: transparent;
+    max-width: 300px;
+    display: inline-block;
+}
+
+.image .image-container img {
+    width: 200px;
+    height: 250px;
+    border: 5px solid #fff;
+}
+.image .image-container img:hover {
+    opacity: 0.8;
+}
+.image-container1 img {
+    width: 300px;
+    height: 200px;
+}
+
+
+/* For Table  */
+
+.row-color-1 {
+    background: #2a2e33;
+}
+.row-color-2 {
+    background: #454d55;
+}
+.Tt-white a {
+    color: #fff;
+}
+.Tt-Black a {
+    color: #2a2e33;
+    font-weight: bold;
+}
+
+/* Border Radius For Images  */
+
+.BR-RD {
+    border-radius: 50%;
+}
+
+/* Border bottom */
+
+.BR-b {
+    border-bottom: 2px solid black;
+}
+.BR-c {
+    border-bottom: 3px solid rgb(54, 197, 49);
+}
+.BR-c1 {
+    border-bottom: 1px solid rgb(54, 197, 49);
+}
+.Tt-white {
+    color: #fff;
+}
+
+
+/* For Home Buttons  */
+
+.button-known {
+
+}
+.button-1 {
+    color: #15f4ee;
+    background: transparent;
+    font-size: 20px;
+    width: 200px;
+    padding: 10px;
+    font-family: poppins;
+    font-weight: 400;
+    border: 2px solid #15f4ee;
+    border-radius: 100px;
+    transition: 1.5s;
+}
+.button-1:hover {
+    box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee inset,
+                0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee inset;
+    color: black;
+}
+
+
