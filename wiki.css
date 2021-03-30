@@ -34,7 +34,12 @@ body {
     height: 200px;
 }
 
-
+@media(max-width: 400px){
+    .image .image-container img {
+        width: 150px;
+        height: 200px;
+    }
+}
 /* For Table  */
 
 .row-color-1 {
